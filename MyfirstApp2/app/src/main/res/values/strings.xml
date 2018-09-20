@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">My first App</string>
-    <string name="hint">PIN</string>
-    <string name="textview">TextView1</string>
-    <string name="buttonLabel"> Submit </string>
-</resources>

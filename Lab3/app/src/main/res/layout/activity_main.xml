@@ -176,11 +176,11 @@
                 android:text="C" />
 
             <Button
-                android:id="@+id/buttonPorce"
+                android:id="@+id/buttonMult"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="%" />
+                android:text="*" />
 
         </LinearLayout>
 
